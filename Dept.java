@@ -1,1 +1,3 @@
-public class Dept {}
+public class Dept {
+	private Integer deptno ;
+}
